@@ -1,0 +1,32 @@
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\bin\Debug\ResturentManegment.exe.config
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\bin\Debug\ResturentManegment.exe
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\bin\Debug\ResturentManegment.pdb
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.csprojAssemblyReference.cache
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.Properties.Resources.resources
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.csproj.GenerateResource.cache
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.csproj.CoreCompileInputs.cache
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.exe
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.pdb
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.Dashboard.resources
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.CustomerManager.resources
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.FoodList.resources
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.Salesman.resources
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.InvoiceSalesman.resources
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.InvoiceManager.resources
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.Loginform.resources
+F:\Projects\C# Project\ResturentManegment\ResturentManegment\ResturentManegment\bin\Debug\ResturentManegment.exe.config
+F:\Projects\C# Project\ResturentManegment\ResturentManegment\ResturentManegment\bin\Debug\ResturentManegment.exe
+F:\Projects\C# Project\ResturentManegment\ResturentManegment\ResturentManegment\bin\Debug\ResturentManegment.pdb
+F:\Projects\C# Project\ResturentManegment\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.csprojAssemblyReference.cache
+F:\Projects\C# Project\ResturentManegment\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.CustomerManager.resources
+F:\Projects\C# Project\ResturentManegment\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.InvoiceManager.resources
+F:\Projects\C# Project\ResturentManegment\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.InvoiceSalesman.resources
+F:\Projects\C# Project\ResturentManegment\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.Salesman.resources
+F:\Projects\C# Project\ResturentManegment\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.FoodList.resources
+F:\Projects\C# Project\ResturentManegment\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.Loginform.resources
+F:\Projects\C# Project\ResturentManegment\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.Dashboard.resources
+F:\Projects\C# Project\ResturentManegment\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.Properties.Resources.resources
+F:\Projects\C# Project\ResturentManegment\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.csproj.GenerateResource.cache
+F:\Projects\C# Project\ResturentManegment\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.csproj.CoreCompileInputs.cache
+F:\Projects\C# Project\ResturentManegment\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.exe
+F:\Projects\C# Project\ResturentManegment\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.pdb
